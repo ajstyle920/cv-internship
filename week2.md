@@ -20,3 +20,5 @@ The model detected objects like people and vehicles in the image and generated o
 - Python (venv)
 - Ultralytics YOLOv8
 - macOS Terminal
+## Output
+![Bus Detection](week2_bus.jpg)
