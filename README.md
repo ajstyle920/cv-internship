@@ -1,18 +1,57 @@
-# Week 1 Tasks - Computer Vision Internship
+# 🚀 Computer Vision Internship
 
-## Task 1
-Downloaded a YouTube video using yt-dlp and extracted frames using ffmpeg.
+This repository contains all weekly tasks completed during my Computer Vision Internship.
 
-## Task 2
-Generated around 1800 frames (30 fps for 1 minute) and reconstructed the video using ffmpeg.
+---
 
-## Task 3
-Added background music to the video and created final output using ffmpeg.
+## 📂 Weekly Work
 
-## Tools Used
-- yt-dlp
-- ffmpeg
-- macOS Terminal
+### 📅 Week 1
 
-## Output Video
-(https://drive.google.com/file/d/1BW2Hb1ZLkal6mDVe0cqCrbEpsW0xoc9d/view?usp=drive_link)
+Video processing using ffmpeg and yt-dlp, including frame extraction and reconstruction.
+👉 [View Week 1](./week1)
+
+---
+
+### 📅 Week 2
+
+Object detection using YOLO model on images.
+👉 [View Week 2](./week2)
+
+---
+
+### 📅 Week 3
+
+Image segmentation using YOLOv8 and evaluation using performance metrics.
+👉 [View Week 3](./week3)
+
+---
+
+### 📅 Week 4
+
+Understanding YOLO dataset structure and configuration files (YAML).
+👉 [View Week 4](./week4)
+
+---
+
+## 🛠 Tools & Technologies
+
+* Python
+* YOLOv8 (Ultralytics)
+* OpenCV
+* ffmpeg
+* macOS Terminal
+
+---
+
+## 📌 Notes
+
+Each week folder contains:
+
+* Task explanations
+* Output images/videos
+* Performance metrics (where applicable)
+* Documentation
+
+---
+
