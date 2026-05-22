@@ -28,3 +28,6 @@ The trained model was used to detect custom objects from validation/test images.
 
 ## Author
 Md Altaf Jawed
+## Note
+
+The model accuracy is limited due to the small custom dataset used for training. Some incorrect detections may occur during inference, while the overall training and prediction pipeline functions correctly.
