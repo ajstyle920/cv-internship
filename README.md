@@ -50,7 +50,7 @@ Each week folder contains:
 
 * Task explanations
 * Output images/videos
-* Performance metrics (where applicable).
+* Performance metrics (where applicable)
 * Documentation
 
 ---
